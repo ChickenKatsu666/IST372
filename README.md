@@ -1,58 +1,78 @@
 # IST372
 Notes for CompTIA A+, Project and any additional help
 Quiz 1: 1-3
-https://quizlet.com/234996292/ist-372-chap-1-3-flash-cards/
+
 
 []QUESTION 1
+
 Most companies require a signed _______________ to perform work.
 Work Authorization
+
 []QUESTION 2
 What do antistatic mats and wrist straps use to prevent anti-static charges from racing through devices?
 Resistors
+
 []QUESTION 3
 In Windows, a large number of programs, called ___________, populate the Control Panel.
 Applets
+
 []QUESTION 4
 How much hands-on work experience with personal computing devices should a technician have before taking the A+ certification exams?
 12 months 
+
 []QUESTION 5
 The 220-901 exam tests your knowledge of computer _________, expecting you to be able to identify just about every common device on PCs, including variations within device types.
 components
+
 []QUESTION 6
 What is the first step of the troubleshooting theory?
 identify the problem
+
 []QUESTION 7
 What is the most important thing you should do at the completion of any work?
 Document your work
+
 []QUESTION 8
 The user interface (UI) that offers images or icons to select (as opposed to making you type commands) is called a(n) Graphical User Interface (GUI)  
+
 []QUESTION 9
 Which port on the back of a PC?s system unit is used for output to a monitor?
 HDMI
+
 []QUESTION 10
 What are the three major components in a modern computer?
 Hardware, operating system, and applications
+
 []QUESTION 11
 Which domain is tested in the CompTIA A+ 220-901exam?
 Networking
+
 []QUESTION 12
 The back of a PC?s system unit contains the many connection points called Ports.
+
 []QUESTION 13
 The pairing of an application with its file extension is called File association 
+
 []QUESTION 14
 To renew your A+ certification, you must earn 20 Continuing Education Units (CEUs)  each three-year period.
+
 []QUESTION 15
 _______________ means to tell the truth and _______________ means to do the right thing.
 Honesty; integrity
+
 []QUESTION 16
 An essential tool in Linux for technicians is the command line, called  terminal
+
 []QUESTION 17
 The CompTIA A+ 220-902 exam covers the configuration, repair, and troubleshooting of the Windows operating system.
+
 []QUESTION 18
 What action is always recommended before making any major changes to a critical system?
 make backups
+
 []QUESTION 19
 The Windows 10  Settings app combines a huge number of otherwise disparate utilities, apps, and tools traditionally spread out all over your computer into one fairly unified, handy Windows app.
+
 []QUESTION 20
 In the Mac OS X operating system, what is the background of the main screen called? The Desktop
  
