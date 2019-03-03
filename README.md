@@ -78,6 +78,7 @@ In the Mac OS X operating system, what is the background of the main screen call
  
 Quiz 2
 https://quizlet.com/7284696/a-certification-test-2-flash-cards/
+
 QUESTION 1
 
 What is the practical limit for modern CPU clock speeds?
